@@ -1,5 +1,7 @@
 ### Apenas um DEV fã do Sidoka... me zoa nao man porfavor
 
+![image](https://user-images.githubusercontent.com/72222396/130806628-df1481dc-cb7f-405b-8fa5-cde67b77071f.png)
+
 <!--
 **Sidoria/Sidoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
