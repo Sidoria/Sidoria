@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
 
+-🔭 I’m currently start working on API Projects
+
+-👯 I’m looking to collaborate with other content creators
+
+-🤝 I’m looking for help with API 
+
+-🌱 I’m currently learning API
+
+-📫 How to reach me krawkercontato@gmail.com or DoKas#0001
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devdokas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devdokas" height="30" width="40" /></a>
