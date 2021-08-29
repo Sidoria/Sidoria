@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidoria&label=Profile%20views&color=0e75b6&style=flat" alt="sidoria" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidoria" alt="sidoria" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/devdokas" target="blank"><img src="https://img.shields.io/twitter/follow/devdokas?logo=twitter&style=for-the-badge" alt="devdokas" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,22 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidoria&show_icons=true&locale=en" alt="sidoria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidoria&" alt="sidoria" /></p>
-
-
-
-<!--
-**Sidoria/Sidoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![image](https://user-images.githubusercontent.com/72222396/130806578-36405121-e8ac-4a0d-92de-1628bf376355.png)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
