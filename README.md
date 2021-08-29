@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
 
-![image](https://user-images.githubusercontent.com/72222396/131266701-503d0871-65ec-43e4-bb06-4fef45aa7811.png) <img align="center">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidoria" alt="sidoria" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
