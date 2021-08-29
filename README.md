@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
 
-<img src="https://scontent.fcgh5-1.fna.fbcdn.net/v/t1.6435-9/202773872_863510290926978_4063761122383355171_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFZpdFn1STSeERf7t8ARePuqXn_8KbHJvapef_wpscm9kypD-eZxdYL9xK2TkCMfUIo5eMnyCSm6S4dKAdUSpQ1&_nc_ohc=n406TMPrWuEAX_v6UzE&_nc_ht=scontent.fcgh5-1.fna&oh=30c3e861b2d44d9c3adb36e1a852e0c4&oe=615265C4"
+![image](https://user-images.githubusercontent.com/72222396/131266701-503d0871-65ec-43e4-bb06-4fef45aa7811.png) <img align="center">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidoria" alt="sidoria" /></a> </p>
 
