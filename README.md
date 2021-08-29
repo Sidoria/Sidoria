@@ -1,6 +1,11 @@
-### Apenas um DEV fã do Sidoka... me zoa nao man porfavor
+![image](https://user-images.githubusercontent.com/72222396/130806578-36405121-e8ac-4a0d-92de-1628bf376355.png)
 
-![image](https://user-images.githubusercontent.com/72222396/130806628-df1481dc-cb7f-405b-8fa5-cde67b77071f.png)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on API Projects
+- 🌱 I’m currently learning API
+- 🤔 I'm looking for Front-End jobs
+- 📫 How to reach me: krawkercontato@gmail.com
 
 <!--
 **Sidoria/Sidoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
