@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/72222396/130806578-36405121-e8ac-4a0d-92de-1628bf376355.png)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on API Projects
 - 🌱 I’m currently learning API
