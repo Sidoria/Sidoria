@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning API
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I'm looking for Front-End jobs
-- 📫 How to reach me: krawkercontato@gmail.com or DoKas
+- 📫 How to reach me: krawkercontato@gmail.com or DoKas#0001
 - ⚡ Fun fact: I Love all type of musics, and games
+
+
+
 <!--
 **Sidoria/Sidoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
