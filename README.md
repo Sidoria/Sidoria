@@ -1,3 +1,4 @@
+![C#](https://user-images.githubusercontent.com/72222396/131271817-776b267d-356c-4192-934e-e448fee94fb8.gif)
 <h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
 
