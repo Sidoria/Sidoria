@@ -11,7 +11,6 @@
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
 
 <h3 align="center">
-🔭 I’m currently start working on API Projects
 
 👯 I’m looking to collaborate with other content creators
 
