@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
 
-<img  align="left" src="https://user-images.githubusercontent.com/72222396/131273168-891d86e8-831a-4209-ba29-cdd3457ba624.gif" height="100" width="100"/>
+<img  align="left" src="https://user-images.githubusercontent.com/72222396/131273763-903131a8-cbba-41a6-a44a-63a1cb35213c.gif" height="100" width="100"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/72222396/131273515-3dd39481-ce89-4009-a7b0-03582ba7a408.gif" height="100" width="100"/>
+<img align="right" src="https://user-images.githubusercontent.com/72222396/131273718-ca7fd855-dc82-4648-b517-8df98f5624b1.gif" height="100" width="100"/>
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72222396/131272190-5822071d-44eb-4e24-a170-315849b217d2.gif" alt="Sidoria">
+  <img src="https://user-images.githubusercontent.com/72222396/131274089-8110ecc7-3010-49bf-b805-6a2ef176d4e7.gif" alt="Sidoria">
 </p>
 
 <h3 align="center">A student developer from Brazil - Sao Paulo</h3>
