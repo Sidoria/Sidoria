@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/72222396/131274089-8110ecc7-3010-49bf-b805-6a2ef176d4e7.gif" alt="Sidoria">
 </p>
 
-<h3 align="center">A student developer from Brazil - Sao Paulo</h3>
+<h3 align="center">A student developer from  Sao Paulo - Brazil </h3>
 
 <h3 align="center">
 
