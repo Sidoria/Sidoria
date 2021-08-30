@@ -33,6 +33,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sidoria"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sidoria" /></a></p><br><br>
-<p><a href="https://ko-fi.com/sidoria"> <img align="center" ![image](https://user-images.githubusercontent.com/72222396/131270054-3057e6a8-be02-44ee-b286-fa2604d54392.png) height="50" width="210" alt="Sidoria" /></a></p><br><br>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'E1E2600ER');kofiwidget2.draw();</script> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidoria&show_icons=true&locale=en&layout=compact" alt="sidoria" /></p>
