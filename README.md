@@ -21,7 +21,7 @@
 
 📫 How to reach me : krawkercontato@gmail.com
  
- 📞 Discord: DoKas#0001
+ 📞 Discord: Sidoria#0001
 </h3>
 
 <h3 align="center">Connect with me:</h3>
