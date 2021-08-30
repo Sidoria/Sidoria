@@ -26,15 +26,11 @@
 <h3 align="center">Connect with me 👨🏻‍💻:</h3>
 <p align="center">
 <a href="https://codepen.io/sidoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sidoria" height="30" width="40" /></a>
-<a href="https://dev.to/sidoria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sidoria" height="30" width="40" /></a>
-<a href="https://twitter.com/devdokas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devdokas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sidoria-lucas-reis-13516421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidoria-lucas-reis-13516421b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16782884/lucas-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="254897" height="30" width="40" /></a>
 <a href="https://kaggle.com/sidoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sidoria" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dope_luck/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dope_luck/" height="30" width="40" /></a>
 <a href="https://medium.com/@krawkercontato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krawkercontato" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sidoria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sidoria" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sidoria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sidoria" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools 🛠️:</h3>
@@ -47,5 +43,5 @@
  <img src="https://user-images.githubusercontent.com/72222396/131347251-fde828d6-680b-46a7-9fd2-ce9d018e5cc6.png" />
 </p>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/72222396/131350554-05171ec7-4198-4463-a645-3b728064206d.gif" />
+ <img src="https://user-images.githubusercontent.com/72222396/131350554-05171ec7-4198-4463-a645-3b728064206d.gif" style='border:0px;height:36px;' border='0' />
 </p>
