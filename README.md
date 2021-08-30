@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis</h1>
+<h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis Diniz</h1>
 
 <img  align="left" src="https://user-images.githubusercontent.com/72222396/131273763-903131a8-cbba-41a6-a44a-63a1cb35213c.gif" height="100" width="100"/>
 
