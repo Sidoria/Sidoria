@@ -19,7 +19,9 @@
 
 🌱 I’m currently learning API
 
--📫 How to reach me krawkercontato@gmail.com or DoKas#0001
+📫 How to reach me : krawkercontato@gmail.com
+ 
+ 📞 Discord: DoKas#0001
 </h3>
 
 <h3 align="center">Connect with me:</h3>
