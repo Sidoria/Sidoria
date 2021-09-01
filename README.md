@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas "Sidoria" Reis Diniz</h1>
-
-<img  align="left" src="https://user-images.githubusercontent.com/72222396/131273763-903131a8-cbba-41a6-a44a-63a1cb35213c.gif" height="100" width="100"/>
-
-<img align="right" src="https://user-images.githubusercontent.com/72222396/131273718-ca7fd855-dc82-4648-b517-8df98f5624b1.gif" height="100" width="100"/>
+<h1 align="center">Bem Vindo, I'm Lucas "Sidoria" Reis Diniz 👋</h1>
  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72222396/131274089-8110ecc7-3010-49bf-b805-6a2ef176d4e7.gif" alt="Sidoria">
@@ -10,7 +6,9 @@
 
 <h3 align="center">A student developer from  Sao Paulo - Brazil </h3>
 
-<h3 align="center">
+<h4 align="center" >𝙰 𝚕𝚘𝚟𝚎𝚛 𝚘𝚏 𝚄𝙸/𝚄𝚇 𝚊𝚗𝚍 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍</h4>
+
+<h3 align="left">
 
 👯 I’m looking to collaborate with other content creators
 
@@ -34,8 +32,14 @@
 </p>
 
 <h3 align="center">Languages and Tools 🛠️ :</h3>
+ 
+<img align="right" src="https://user-images.githubusercontent.com/72222396/131273718-ca7fd855-dc82-4648-b517-8df98f5624b1.gif" height="100" width="100"/>
 
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<img  align="left" src="https://user-images.githubusercontent.com/72222396/131273763-903131a8-cbba-41a6-a44a-63a1cb35213c.gif" height="100" width="100"/>
+
+<p align="center"> 
+ <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-        original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-   wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a  href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"  height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"  width="40" height="40"/>   </a>
+</p>
 
 <h3 align="center">Support 🙋🏻‍♂️ :</h3>
 <p><a href="https://www.buymeacoffee.com/Sidoria"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sidoria" /></a></p>
@@ -46,3 +50,5 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/72222396/131350554-05171ec7-4198-4463-a645-3b728064206d.gif" style='border:0px;height:36px;' border='0' />
 </p>
+
+
