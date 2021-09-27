@@ -37,9 +37,8 @@
 
 
 <h3 align="center">Support 🙋🏻‍♂️ :</h3>
-<p><a href="https://www.buymeacoffee.com/Sidoria"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sidoria" /></a></p>
 <a href='https://ko-fi.com/Sidoria' target='_blank'><img height='50' align="left" style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Ko-Fi at ko-fi.com' /></a>
-<p align="center">
+<p align="right">
  <img src="https://user-images.githubusercontent.com/72222396/131347251-fde828d6-680b-46a7-9fd2-ce9d018e5cc6.png" />
 </p>
 <p align="center">
