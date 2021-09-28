@@ -37,8 +37,8 @@
 
 
 <h3 align="center">Support 🙋🏻‍♂️ :</h3>
-<a href='https://ko-fi.com/Sidoria' target='_blank'><img height='50' align="left" style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Ko-Fi at ko-fi.com' /></a>
-<p align="right">
+<a href='https://ko-fi.com/Sidoria' target='_blank'><img height='50' align="center" style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Ko-Fi at ko-fi.com' /></a>
+<p align="left">
  <img src="https://user-images.githubusercontent.com/72222396/131347251-fde828d6-680b-46a7-9fd2-ce9d018e5cc6.png" />
 </p>
 
