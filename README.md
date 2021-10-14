@@ -12,11 +12,11 @@
 
 👯 I’m looking to collaborate with other content creators
 
-🤝 I’m looking for help with API 
+🤝 I’m looking for help with JS
 
-🌱 I’m currently learning API
+🌱 I’m currently learning JS
 
-📫 How to reach me : krawkercontato@gmail.com
+📫 How to reach me : lucas.reisdev1209@gmail.com
  
  📞 Discord: Sidoria#0937
 </h3>
