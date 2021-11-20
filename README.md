@@ -1,4 +1,4 @@
-<h1 align="center">Bem Vindo, I'm Lucas "Sidoria" Reis Diniz 👋</h1>
+<h1 align="center">Bem Vindo, I'm Lucas "Ghost" Reis Diniz 👋</h1>
  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72222396/142730431-d54477f4-bd6c-4a8a-a61b-f57159b62f54.png" alt="Sidoria">
