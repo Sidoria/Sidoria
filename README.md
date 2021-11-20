@@ -1,7 +1,7 @@
 <h1 align="center">Bem Vindo, I'm Lucas "Sidoria" Reis Diniz 👋</h1>
  
 <p align="center">
-  <img src="![Ghost](https://user-images.githubusercontent.com/72222396/142730330-19ed761b-ab6f-4d5d-82a6-60d2c8e934b8.png)" alt="Sidoria">
+  <img src="https://user-images.githubusercontent.com/72222396/142730431-d54477f4-bd6c-4a8a-a61b-f57159b62f54.png" alt="Sidoria">
 </p>
 
 <h3 align="center">A student developer from  Sao Paulo - Brazil </h3>
