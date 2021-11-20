@@ -12,9 +12,9 @@
 
 👯 I’m looking to collaborate with other content creators
 
-🤝 I’m looking for help with JS
+🤝 I’m looking for help with React
 
-🌱 I’m currently learning JS
+🌱 I’m currently learning Mobile React
 
 📫 How to reach me : lucas.reisdev1209@gmail.com
  
