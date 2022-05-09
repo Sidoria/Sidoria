@@ -16,7 +16,7 @@
 
 🌱 I’m currently learning Mobile React
 
-📫 How to reach me : lucas.reisdev1209@gmail.com
+📫 How to reach me : lucasreis.dnz@gmail.com
  
  📞 Discord: Sidoria#0937
 </h3>
