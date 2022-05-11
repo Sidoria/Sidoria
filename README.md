@@ -18,7 +18,7 @@
 
 📫 How to reach me : lucasreis.dnz@gmail.com
  
- 📞 Discord: Sidoria#0937
+ 📞 Discord: Lucxs#0937
 </h3>
 
 <h3 align="left">Connect with me 👨🏻‍💻 :</h3>
