@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/sidoria-lucas-reis-13516421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidoria-lucas-reis-13516421b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16782884/lucas-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="254897" height="30" width="40" /></a>
 <a href="https://kaggle.com/sidoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sidoria" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dope_luck/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lucasreis.dnz/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lucasreis.dnz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lucasreis.dnz/" height="30" width="40" /></a>
 <a href="https://medium.com/@krawkercontato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krawkercontato" height="30" width="40" /></a>
 </p>
 
