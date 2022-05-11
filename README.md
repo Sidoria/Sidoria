@@ -12,9 +12,9 @@
 
 👯 I’m looking to collaborate with other content creators
 
-🤝 I’m looking for help with React
+🤝 I’m looking for help with Ajax
 
-🌱 I’m currently learning Mobile React
+🌱 I’m currently learning Python
 
 📫 How to reach me : lucasreis.dnz@gmail.com
  
